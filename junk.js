@@ -1,4 +1,4 @@
-import {obama, paparazi, flo, wall, mjolnir, redbox, wheel} from 'objects.js';
+import {obama, paparazi, flo, wall, mjolnir, redbox, wheel} from '/objects.js';
 const audio = new Audio('song');
 
 /// ---------------- CENA
