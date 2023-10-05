@@ -1,5 +1,5 @@
 import {obama, paparazi, flo, wall, mjolnir, redbox, wheel} from '/objects.js';
-const audio = new Audio('song');
+const audio = new Audio('song.mp3');
 
 /// ---------------- CENA
 const scene = new THREE.Scene();
